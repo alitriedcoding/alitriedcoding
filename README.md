@@ -23,7 +23,7 @@ available at
 - 💬 Ask me about **Javascript,HTML,CSS,Java** - 📫 How to reach me
 <a href="https://ali5555mohammadi@gmail.com"> ali5555mohammadi@gmail.com</a>
 
-- ⚡ Fun fact **a am funny**
+- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
